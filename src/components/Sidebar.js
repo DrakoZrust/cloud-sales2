@@ -21,7 +21,7 @@ const Sidebar = () => {
                             className="img-circle elevation-2"/>
                     </div>
                     <div className="info">
-                        <span className="d-block">Alexander Pierce</span>
+                        <span className="d-block">Miguel Cortes</span>
                     </div>
                 </div>
                 <nav className="mt-2">
